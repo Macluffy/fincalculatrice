@@ -1,0 +1,109 @@
+.bouton{
+    height: 50px;
+    width: 50px;
+    border: none;
+    border-radius: 50px;
+    background-color: gray;
+    margin:10px;
+    font-size: 17px;
+}
+.btn{
+    height: 50px;
+    width: 50px; 
+    border: none;
+    border-radius: 50px;
+    margin: 5px;
+    background-color:orange;
+    font-size: 20px;
+}
+input{
+    border:none;
+    background-color: black;
+    width: 80%;
+    height: 90%;
+    color:white;
+    font-size: 30px;
+    
+    
+    
+}
+
+
+div{
+    background-color: black;
+    width: 320px;
+    height: 400px;
+    border-radius: 15px;
+    position: relative;
+
+}
+.div1{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.div2{
+    width: 100%;
+    height: 65%;
+    display: flex;
+    
+
+}
+.div3{
+    width: 70%;
+    height: 20%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+
+}
+.div21{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    align-items: center;
+
+}
+.div22{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.bouton1{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(77, 77, 77);
+    border-radius: 50px;
+    border:none;
+    color: white;
+    margin: 10px;
+    font-size: 20px;
+}
+#zero{
+    background-color: gray;
+    color: black;
+}
+#egal{
+    position: absolute;
+    bottom: 26px;
+    right: 22px;
+    background-color:greenyellow ;
+    border:none;
+    height: 50px;
+    width: 60px;
+    font-size: 30px;
+    border-radius: 5px;
+
+    
+}
